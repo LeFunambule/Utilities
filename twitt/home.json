@@ -1,0 +1,27 @@
+{
+  - users: [
+      - {
+          id: 1,
+          name: "Captain America",
+          username: "@captainamerica",
+          bio: "Let's find a much easier way to parse JSON without having to jump through
+          the hoops of using URLSession and JSONSerialization.jsonObject(...).",
+          profileImageUrl: "benoitdelplace/Documents/3WAcademy/SWIFT/01-FINAL-PROJECTS/00-TOUS-LES-PROJETS/FBook/FBook/api/videos/kamasi-01.mov"
+      },
+      -{
+        id: 1,
+        name: "Iron Man",
+        username: "@ironman",
+        bio: "how you make the api rest full what framework? what stack you use? you can make a video of that?",
+        profileImageUrl: "benoitdelplace/Documents/3WAcademy/SWIFT/01-FINAL-PROJECTS/00-TOUS-LES-PROJETS/FBook/FBook/api/videos/kamasi-02.mov"
+      },
+      -{
+        id: 1,
+        name: "Silver Surfer",
+        username: "@silversurfer",
+        bio: "I would love to see a series on that! I've been wanting to get more into backends recently and building out a simple API would be really helpful.",
+        profileImageUrl: "benoitdelplace/Documents/3WAcademy/SWIFT/01-FINAL-PROJECTS/00-TOUS-LES-PROJETS/FBook/FBook/api/videos/kamasi-03.mov"
+      }
+  ],
+  twitts: [ ]
+}
