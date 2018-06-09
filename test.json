@@ -1,0 +1,26 @@
+{
+  - users: [
+      - {
+          id: 1,
+          name: "Captain America",
+          username: "@captainamerica",
+          bio: "Ce texte correspond à la video de Kamasi Washington filmé au Bataclan il y a quelque temps.",
+          profileImageUrl: "https://github.com/LeFunambule/Utilities/blob/master/kamasi.mov"
+      },
+      -{
+        id: 1,
+        name: "Iron Man",
+        username: "@ironman",
+        bio: "Ce texte correspond à la video de Roger Waters filmé au UArena de La Defense hier. C'est la video 1",
+        profileImageUrl: "https://github.com/LeFunambule/Utilities/blob/master/roger-01.mov"
+      },
+      -{
+        id: 1,
+        name: "Silver Surfer",
+        username: "@silversurfer",
+        bio: "Ce texte correspond à la video de Roger Waters filmé au UArena de La Defense hier. C'est la video 2",
+        profileImageUrl: "https://github.com/LeFunambule/Utilities/blob/master/roger-02.mov"
+      }
+  ],
+  twitts: [ ]
+}
